@@ -1,5 +1,5 @@
 # brp-pawn
-Simple Pawn Shop script to sell your items
+Simple Pawn Shop script for your FiveM server to sell your items
 
 ## Installation
 
