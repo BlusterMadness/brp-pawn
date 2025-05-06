@@ -45,4 +45,3 @@ RegisterNetEvent('brp-pawn:sellitem', function(item, price, itemAmount, payMetho
     Player.Functions.AddMoney(payMethod, pay, 'Items Sold')
     TriggerClientEvent('QBCore:Notify', src, 'You sold '..amount..'x '..QBCore.Shared.Items[item].label..' for $'..pay..'.', 'success', 4500)
 end)
-
