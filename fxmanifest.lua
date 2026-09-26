@@ -2,6 +2,8 @@
 fx_version 'cerulean'
 
 author 'Bluster_Madness'
+description 'Bluster Pawn - Free & Open Source'
+version '1.1.1'
 
 game 'gta5'
 
